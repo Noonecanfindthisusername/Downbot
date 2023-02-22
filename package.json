@@ -1,7 +1,7 @@
 {
-  "name": "TrackDown",
+  "name": "hello",
   "version": "1.0.0",
-  "description": "Track Down People just through a link",
+  "description": "Track People just through a link",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
   "keywords": [],
   "author": {
    "name" : "Prateek Chaubey",
-   "url" : "https://git.io/prateek"
+   "url" : "https://t.me/whythisis"
   },
   "license": "MIT",
   "dependencies": {
